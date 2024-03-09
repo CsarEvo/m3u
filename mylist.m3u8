@@ -1,14 +1,3 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/jq2zy9pzprh3jkjnxr58"
-
-************************  18/FEB/2024  ESTA LISTA ES DE USO PARTICULAR - NO SE VENDE Y NO TIENE UN SERVIDOR PROPIO ****************************
-************************    TODOS LOS LINKS SE ENCUENTRAN EN INTERNET Y SON DE DOMINIO PUBLICO  ***********************************************
-************************ HI THIS IS A PUBLIC LIST THAT I COLLECT IN MY SPARE TIME AS A HOBBY. *************************************************
-************************ FEEL FREE TO FORK OR TAKE WHATEVER YOU WANT. I HOPE YOU USE IT WISELY. ***********************************************
-************************ THIS IPTV LINK IS FOR YOUR OWN USE, NOT FOR SALE. THANK YOU.  ********************************************************
-
-#EXTINF:-1 group-title="Bics", 18 DE FEB 12:00 HRS
-https://zzzz.zzz
-
 #EXTINF:-1 group-title="Bics", AZTECA UNO
 #EXTVLCOPT--http-reconnect=true
 https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
@@ -19,9 +8,9 @@ https://i.mjh.nz/Plex/608049aefa2b8ae93c2c3a63-64693c3f4ead8fb86120d8db.m3u8
 #EXTVLCOPT--http-reconnect=true
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
-***** https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
-***** https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index_6.m3u8
+https://linear-553.frequency.stream/dist/vix/553/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics", LAS ESTRELLAS MX
 #EXTVLCOPT--http-reconnect=true
 https://linear-413.frequency.stream/mt/studio/413/hls/master/playlist.m3u8
